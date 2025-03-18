@@ -65,7 +65,6 @@ src/
 │           └── gildedrose/
 │               ├── GildedRose.java            // Clase principal refactorizada
 │               ├── Item.java                  // Clase Item original (sin modificar)
-│               ├── TexttestFixture.java       // Clase para probar visualmente
 │               └── strategy/
 │                   ├── ItemUpdateStrategy.java       // Interfaz para todas las estrategias
 │                   ├── ItemUpdateStrategyFactory.java // Factory para crear estrategias
